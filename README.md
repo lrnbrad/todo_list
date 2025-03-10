@@ -1,10 +1,10 @@
-# todo_list
+# Simple to do list app
 
-A new Flutter project.
+A simple todo list project for NPC course.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is adapted from example code generate by flutter tools
 
 A few resources to get you started if this is your first Flutter project:
 
